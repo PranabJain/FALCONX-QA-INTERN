@@ -2,7 +2,7 @@
 Assignment for the recruiment drive for the position of Quantative Analyst Intern
 
 How to run assignment:-
-1) Upload the file "FALCON_V3" to jupiter notebook.
+1) Upload the file "FALCON_V3" to jupyter notebook.
 2) Click on Kernel->Restart and Run all Cells(Although you can directly view the results).
 
 Considerations kept while making assignment:-
