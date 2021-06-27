@@ -3,7 +3,7 @@ Assignment for the recruiment drive for the position of Quantative Analyst Inter
 
 How to run assignment:-
 1) Upload the file "FALCON_V3" to jupiter notebook.
-2) Restart and Run all Cells(Although you can directly view the results).
+2) Click on Kernel->Restart and Run all Cells(Although you can directly view the results).
 
 Considerations kept while making assignment:-
 1)	I was not clear with inherent meaning of side(buy/sell) so I created an additional logic:-
@@ -18,4 +18,5 @@ Also, I deduced whenever amoun0_in>0; amount1_in is always 0 and same reasoning 
 
 
 ANALYTICS:-
-I have plotted a pie chart of top 10 liquid transaction pairs. This analysis could be beneficial for a trading firm to evaluate performance of various pairs and which trading pair is most poular duirng a specefic period of time.
+1) I have plotted a pie chart of top 10 liquid transaction pairs. This analysis could be beneficial for a trading firm to evaluate performance of various pairs and which trading pair is most poular duirng a specefic period of time.
+2) Second pie chart corresponds to the performance of top 10 vs top 100 pairs in temrs of reserveUSD(total Liquidity of a pair).
